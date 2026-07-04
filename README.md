@@ -15,6 +15,16 @@
 
 **Router Learning System + macOS desktop automation for AI agents using Cua Driver.**
 
+## 📸 Demo
+
+<div align="center">
+  <img src="screenshots/demo.svg" alt="cua-desktop-automation-skills demo" width="100%">
+</div>
+
+<br>
+
+
+
 A collection of battle-tested skills and examples for building computer-use agents that control macOS desktops via Cua Driver — with an intelligent task router that learns from past executions.
 
 ## 🌟 Star Feature: Router Learning System
