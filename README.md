@@ -1,5 +1,18 @@
 # cua-desktop-automation-skills
 
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/ChrisLamDev/cua-desktop-automation-skills?style=for-the-badge&logo=github)](https://github.com/ChrisLamDev/cua-desktop-automation-skills/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ChrisLamDev/cua-desktop-automation-skills?style=for-the-badge&logo=github)](https://github.com/ChrisLamDev/cua-desktop-automation-skills/forks)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Skills](https://img.shields.io/badge/Skills-9-8A2BE2?style=for-the-badge)](skills/)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-8A2BE2?style=for-the-badge&logo=anthropic)](https://claude.ai)
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-ready-8A2BE2?style=for-the-badge&logo=openai)](https://openai.com)
+[![Cursor](https://img.shields.io/badge/Cursor-ready-8A2BE2?style=for-the-badge&logo=cursor)](https://cursor.sh)
+[![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-ready-8A2BE2?style=for-the-badge&logo=python)](https://github.com/NousResearch/hermes-agent)
+
+</div>
+
 **Router Learning System + macOS desktop automation for AI agents using Cua Driver.**
 
 A collection of battle-tested skills and examples for building computer-use agents that control macOS desktops via Cua Driver — with an intelligent task router that learns from past executions.
