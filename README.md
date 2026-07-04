@@ -22,7 +22,7 @@
   <br><br>
   <img src="screenshots/demo-real.png" alt="cua-desktop-automation-skills live demo" width="90%" style="border-radius: 8px; border: 1px solid #30363d;">
   <br>
-  <em>Cocos Dashboard — a real macOS app being automated by Cua Driver skills</em>
+  <em>Cua Desktop Automation live dashboard — Router Learning System scanning macOS desktop with 9 executable skills</em>
 </div>
 
 <br>
