@@ -10,6 +10,7 @@
 [![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-ready-8A2BE2?style=for-the-badge&logo=openai)](https://openai.com)
 [![Cursor](https://img.shields.io/badge/Cursor-ready-8A2BE2?style=for-the-badge&logo=cursor)](https://cursor.sh)
 [![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-ready-8A2BE2?style=for-the-badge&logo=python)](https://github.com/NousResearch/hermes-agent)
+[![Star History Chart](https://api.star-history.com/svg?repos=ChrisLamDev/cua-desktop-automation-skills&type=Date)](https://star-history.com/#ChrisLamDev/cua-desktop-automation-skills&Date)
 
 </div>
 

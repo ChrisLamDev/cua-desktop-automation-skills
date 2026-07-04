@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-07-04",
+  "repository": "https://github.com/ChrisLamDev/cua-desktop-automation-skills",
+  "domain": "desktop-automation",
+  "total_skills": 1,
+  "assets": ["examples/router.py", "examples/router_history.db"],
+  "skills": [
+    {"name": "cua-driver-install-macos", "description": "Install, configure, and integrate Cua Driver on macOS — permission granting, MCP setup, Hermes integration", "domain": "desktop-automation", "subdomain": "setup", "path": "skills/cua-driver-install-macos"}
+  ]
+}
