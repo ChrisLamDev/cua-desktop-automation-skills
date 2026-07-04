@@ -13,12 +13,16 @@
 
 </div>
 
-**Router Learning System + macOS desktop automation for AI agents using Cua Driver.**
+**Cua Desktop Automation — 9 executable skills with a self-learning task router for reliable macOS GUI automation.**
 
 ## 📸 Demo
 
 <div align="center">
-  <img src="screenshots/demo.svg" alt="cua-desktop-automation-skills demo" width="100%">
+  <img src="screenshots/demo.svg" alt="cua-desktop-automation-skills overview" width="100%">
+  <br><br>
+  <img src="screenshots/demo-real.png" alt="cua-desktop-automation-skills live demo" width="90%" style="border-radius: 8px; border: 1px solid #30363d;">
+  <br>
+  <em>Cocos Dashboard — a real macOS app being automated by Cua Driver skills</em>
 </div>
 
 <br>
