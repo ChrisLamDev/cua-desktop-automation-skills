@@ -1,11 +1,65 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-07-04",
+  "generated_at": "2026-07-04T13:30:00+08:00",
   "repository": "https://github.com/ChrisLamDev/cua-desktop-automation-skills",
   "domain": "desktop-automation",
-  "total_skills": 1,
-  "assets": ["examples/router.py", "examples/router_history.db"],
+  "total_skills": 7,
   "skills": [
-    {"name": "cua-driver-install-macos", "description": "Install, configure, and integrate Cua Driver on macOS — permission granting, MCP setup, Hermes integration", "domain": "desktop-automation", "subdomain": "setup", "path": "skills/cua-driver-install-macos"}
+    {
+      "name": "auto-gui-debug-loop",
+      "description": "General-purpose GUI debugging loop — use Cua Driver + Vision AI to automate any desktop GUI app with screenshot analysis and automated click/verify flow",
+      "domain": "desktop-automation",
+      "subdomain": "general",
+      "path": "skills/auto-gui-debug-loop",
+      "tokens": {"scan": 120, "load": 2800, "category": "standard"}
+    },
+    {
+      "name": "cua-browser-github-oauth",
+      "description": "Complete GitHub OAuth/Device Code Flow via Cua Driver browser automation — bypasses Chrome URL bar search issue",
+      "domain": "desktop-automation",
+      "subdomain": "browser",
+      "path": "skills/cua-browser-github-oauth",
+      "tokens": {"scan": 100, "load": 2200, "category": "standard"}
+    },
+    {
+      "name": "cua-driver-install-macos",
+      "description": "Install, configure, and integrate Cua Driver on macOS for background desktop control via MCP",
+      "domain": "desktop-automation",
+      "subdomain": "setup",
+      "path": "skills/cua-driver-install-macos",
+      "tokens": {"scan": 150, "load": 3000, "category": "standard"}
+    },
+    {
+      "name": "cua-driver-macos-automation",
+      "description": "Use Cua Driver for macOS desktop automation — launching apps, clicking UI elements, controlling web pages",
+      "domain": "desktop-automation",
+      "subdomain": "general",
+      "path": "skills/cua-driver-macos-automation",
+      "tokens": {"scan": 140, "load": 3500, "category": "standard"}
+    },
+    {
+      "name": "cua-vision-hybrid-control",
+      "description": "Hybrid control loop using Cua Driver (Accessibility) + Vision AI (Screenshot Analysis) for macOS desktop apps",
+      "domain": "desktop-automation",
+      "subdomain": "vision",
+      "path": "skills/cua-vision-hybrid-control",
+      "tokens": {"scan": 130, "load": 2600, "category": "standard"}
+    },
+    {
+      "name": "cua-wechat-devtools-ui-inspection",
+      "description": "Use Cua Driver to inspect and navigate WeChat DevTools simulator for Mini Program UI visual review",
+      "domain": "desktop-automation",
+      "subdomain": "wechat",
+      "path": "skills/cua-wechat-devtools-ui-inspection",
+      "tokens": {"scan": 110, "load": 2400, "category": "standard"}
+    },
+    {
+      "name": "desktop-browser-automation-cua",
+      "description": "Use Cua Driver to automate desktop browsers — open pages, type text, click elements, execute JavaScript. Includes React SPA workaround",
+      "domain": "desktop-automation",
+      "subdomain": "browser",
+      "path": "skills/desktop-browser-automation-cua",
+      "tokens": {"scan": 120, "load": 3100, "category": "standard"}
+    }
   ]
 }

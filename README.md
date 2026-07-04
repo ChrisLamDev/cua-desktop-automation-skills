@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ChrisLamDev/cua-desktop-automation-skills?style=for-the-badge&logo=github)](https://github.com/ChrisLamDev/cua-desktop-automation-skills/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ChrisLamDev/cua-desktop-automation-skills?style=for-the-badge&logo=github)](https://github.com/ChrisLamDev/cua-desktop-automation-skills/forks)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/Skills-9-8A2BE2?style=for-the-badge)](skills/)
+[![Skills](https://img.shields.io/badge/Skills-7-8A2BE2?style=for-the-badge)](skills/)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-8A2BE2?style=for-the-badge&logo=anthropic)](https://claude.ai)
 [![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-ready-8A2BE2?style=for-the-badge&logo=openai)](https://openai.com)
 [![Cursor](https://img.shields.io/badge/Cursor-ready-8A2BE2?style=for-the-badge&logo=cursor)](https://cursor.sh)
@@ -14,7 +14,7 @@
 
 </div>
 
-**Cua Desktop Automation — 9 executable skills with a self-learning task router for reliable macOS GUI automation.**
+**Cua Desktop Automation — 7 executable skills with a self-learning task router for reliable macOS GUI automation.**
 
 ## 📸 Demo
 
@@ -23,7 +23,7 @@
   <br><br>
   <img src="screenshots/demo-real.png" alt="cua-desktop-automation-skills live demo" width="90%" style="border-radius: 8px; border: 1px solid #30363d;">
   <br>
-  <em>Cua Desktop Automation live dashboard — Router Learning System scanning macOS desktop with 9 executable skills</em>
+  <em>Cua Desktop Automation live dashboard — Router Learning System scanning macOS desktop with 7 executable skills</em>
 </div>
 
 <br>
@@ -169,7 +169,13 @@ do("app_click", args={
 
 | Skill | What it does |
 |-------|-------------|
+| `auto-gui-debug-loop` | General-purpose GUI debugging loop — capture screen, analyze with vision AI, click UI, verify result. Works with any desktop app |
+| `cua-browser-github-oauth` | Complete GitHub OAuth flow via browser automation — bypasses Chrome's URL bar search issue during device code auth |
 | `cua-driver-install-macos` | Install, configure, and integrate Cua Driver on macOS — permission granting, MCP setup, Hermes integration |
+| `cua-driver-macos-automation` | Launch apps, click UI elements, type text, and control web pages via Cua Driver's Accessibility API and JS injection |
+| `cua-vision-hybrid-control` | Hybrid control loop: Accessibility tree + Vision AI screenshot analysis for reliable fallback when AX can't find elements |
+| `cua-wechat-devtools-ui-inspection` | Inspect and navigate WeChat DevTools simulator for Mini Program UI visual review — covers AX quirks and pixel-click strategies |
+| `desktop-browser-automation-cua` | Automate desktop browsers (Chrome/Safari) — open pages, type, click, execute JS. Includes React SPA workaround for X.com etc. |
 
 ## Quick Start
 
