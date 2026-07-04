@@ -84,7 +84,7 @@ result = do("git_commit", args={"message": "feat: ..."})
 
 ```bash
 # Clone
-git clone https://github.com/chrislamlayer1-gif/cua-desktop-automation-skills.git
+git clone https://github.com/ChrisLamDev/cua-desktop-automation-skills.git
 cd cua-desktop-automation-skills
 
 # Try the Router
